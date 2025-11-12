@@ -1,0 +1,11 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "True",
+    "name": "AED Toolkit SOS",
+    "description": "AED Toolkit Base",
+    "author": "Ministry of BIM",
+    "image": "",
+    "dependencies": []
+}
